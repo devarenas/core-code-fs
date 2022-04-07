@@ -4,7 +4,7 @@ Full Stack Bootcamp
 
 ## Weekly Challenges
 
-* Week 1: [React](https://github.com/devarenas/core-code/tree/main/src/challenges/week1)
+* Week 1: [React](https://github.com/devarenas/core-code-fs/tree/main/src/week1)
 * Week 2: [-](https://github.com/devarenas/core-code-fs/tree/main/src/week2)
 * Week 3 : [-](https://github.com/devarenas/core-code-fs/tree/main/src/week3)
 * Week 4 : [-](https://github.com/devarenas/core-code-fs/tree/main/src/week4)
