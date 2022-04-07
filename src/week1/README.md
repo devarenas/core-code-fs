@@ -32,10 +32,16 @@ function reverseWords(str){
 ```
 
 
- 
-
-
 ## Wednesday
+### 1. [Smallest integer in array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
+```
+class SmallestIntegerFinder {
+  findSmallestInt(args) {
+    
+    return Math.min(...args);
+  }
+}
+```
 
 ## Thursday
 
