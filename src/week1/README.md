@@ -46,6 +46,14 @@ class SmallestIntegerFinder {
 ## Thursday
 ### 1. [Odd or Even](https://www.codewars.com/kata/5949481f86420f59480000e7)
 ```
+function oddOrEven(array) {
+
+    array = array.reduce((prev, curr) => prev + curr, 0);
+    let answer;
+    array%2==0 ? answer ='even': answer='odd';
+
+    return answer;
+ }
 ```
 
 ## Week links
