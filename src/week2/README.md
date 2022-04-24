@@ -28,17 +28,17 @@ function isPalindrome(line) {
   }
 ```
 ## Tuesday
-### 1. [Multiple of Index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
-```
-```
-
-## Wednesday
 ### 1. [Well of Ideas](https://www.codewars.com/kata/57f222ce69e09c3630000212)
 ```
 ```
 
+## Wednesday
+### 1. [React Manage Events](https://www.codewars.com/kata/5a8319f257c562ede8000037)
+```
+```
+
 ## Thursday
-### 1. [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+### 1. [React Santa Wish List](https://www.codewars.com/kata/5a9ecd89fd5777e0790001ea)
 ```
 ```
 
