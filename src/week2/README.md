@@ -30,6 +30,27 @@ function isPalindrome(line) {
 ## Tuesday
 ### 1. [Well of Ideas](https://www.codewars.com/kata/57f222ce69e09c3630000212)
 ```
+function well(x){
+    let count = 0;
+
+    x.forEach ((c) => {
+        if(c === "good"){
+            count += 1;
+        }
+    })
+    
+    ideas = ""
+    if(count === 1 || count === 2){
+        ideas = "Publish!"
+    } else if (count > 2){
+        ideas = "I smell a series!"
+
+    }else {
+        ideas = "Fail!"
+    }
+    return ideas;
+}
+
 ```
 
 ## Wednesday
